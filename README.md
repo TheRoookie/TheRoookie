@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Bharvadiya</h1>
-<h3 align="center">A Curious Student with urge too learn computer science.</h3>
+<h3 align="center">A Curious Student with urge to learn computer science.</h3>
 
 - 🌱 I’m currently learning **Data Structure , Java , C.**
 
