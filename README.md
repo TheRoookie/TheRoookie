@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Bharvadiya</h1>
 <h3 align="center">A Curious Student with urge to learn computer science.</h3>
 
-- 🌱 I’m currently learning **Data Structure , Java , C.**
+- 🌱 I’m currently learning **Data Structure , Python , Django , React , MongoDB.**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
